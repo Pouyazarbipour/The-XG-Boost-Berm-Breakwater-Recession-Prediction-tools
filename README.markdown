@@ -1,6 +1,6 @@
-# XG Boost Berm Breakwater Recession Buster Prediction
+# The XGBoost Berm Breakwater Recession Prediction tool
 
-Welcome to the XG Boost Berm Breakwater Recession Prediction tool, a web-based application developed using machine learning and the XGBoost method. This tool provides accurate and efficient predictions of berm breakwater recession based on a comprehensive dataset and carefully selected input parameters.
+Welcome to The XGBoost Berm Breakwater Recession Prediction tool, a web-based application developed using machine learning and the XGBoost method. This tool provides accurate and efficient predictions of berm breakwater recession based on a comprehensive dataset and carefully selected input parameters.
 
 ## Overview
 
