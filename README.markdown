@@ -12,7 +12,7 @@ The model uses the following dimensionless input parameters:
 
 - **Rec/Dn50**: 0.12 – 25.4 (Output)
 - **H0√T0p**: 5.8 – 35.8 (Input)
-- **H0**: 1.1 – 6 (Input, units: m)
+- **H0**: 1.1 – 6 (Input)
 - **fg**: 1 – 1.8 (Input)
 - **h/Dn50**: 7.2 – 26.5 (Input)
 - **hb/Hs**: 0 – 3.1 (Input)
