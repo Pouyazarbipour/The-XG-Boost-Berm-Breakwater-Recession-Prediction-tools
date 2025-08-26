@@ -27,8 +27,8 @@ For detailed guidance, refer to the [User & Technical Manual](https://coastalhyd
 
 ## Downloads
 
-- [Download the Software](https://coastalhydlab.ir/software/xgb-bbrp/download)
-- [Download User & Technical Manual](https://coastalhydlab.ir/software/xgb-bbrp/manual)
+- [Download the Software](https://drive.google.com/file/d/1xDbzpUAMEwoJ3jnKcOECaG23iwRccPXW/view?usp=sharing)
+- [Download User & Technical Manual](https://drive.google.com/file/d/1xDbzpUAMEwoJ3jnKcOECaG23iwRccPXW/view?usp=sharing)
 
 ## About
 
