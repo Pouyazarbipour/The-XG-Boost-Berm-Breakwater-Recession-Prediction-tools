@@ -6,6 +6,8 @@ Welcome to The XGBoost Berm Breakwater Recession Prediction tool, a web-based ap
 
 This project is designed to predict the recession of berm breakwaters using the XGBoost machine learning model. The model uses a dataset split into 70% for training, 15% for validation, and 15% for testing, achieving R-squared statistics of 0.99 for training and 0.97 for testing. For more details, refer to the article by Zarbipour et al. (2025).
 
+![Main Page GUI](https://github.com/Pouyazarbipour/The-XG-Boost-Berm-Breakwater-Recession-Prediction-tools/blob/main/GUI%20pic/main_page.JPG)
+
 ## Data Range and Parameters
 
 The model uses the following dimensionless input parameters:
