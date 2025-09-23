@@ -19,7 +19,7 @@ The model uses the following dimensionless input parameters:
 - **h/Dn50**: 7.2 – 26.5 (Input)
 - **hb/Hs**: 0 – 3.1 (Input)
 
-The model does not apply the effect of the dimensionless parameter *fn*, where *N* (number of waves) is set to 3000. The *fn* parameter, as presented by Akbari et al. (2022), accounts for the effect of previous waves on berm breakwater recession.
+The model does not apply the effect of the dimensionless parameter *fn*, where *N* (number of waves) is set to 3000. The *fn* parameter, as presented by [Akbari et al. (2022)](https://doi.org/10.1016/j.oceaneng.2024.119465), accounts for the effect of previous waves on berm breakwater recession.
 
 ## Model and Prediction Approach
 
